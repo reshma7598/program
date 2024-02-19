@@ -14,10 +14,10 @@ int main() {
   double dbnumber=2.785462;
   cout<<dbnumber<<endl;
 
-  bool cpgm=true;
+  bool cpgm=true;   //true or false
   cout<<cpgm<<endl;
 
-  char chartext='A';
+  char chartext='A';  //charcter
   cout<<chartext<<endl;
 
   return 0;
