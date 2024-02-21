@@ -18,4 +18,4 @@ int main(){
     cout<<"Area of the Circle :"<<myCircle.calculateArea ()<< endl;
     cout<<"Circumferance of the Circle :" <<myCircle.calulateCircumferance()<< endl;
 return 0;
-};
+}

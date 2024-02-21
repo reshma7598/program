@@ -1,4 +1,6 @@
-//lenth and width 
+//lenth and width
+
+
 #include<iostream>
 using namespace std;
 
